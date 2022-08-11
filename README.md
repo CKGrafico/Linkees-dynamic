@@ -30,6 +30,7 @@
 We always welcome contributions; big or small, it can be documentation updates, adding new checks or something bigger. Please check the Contributing Guide for details on how to help out.
 
 ### Special Thanks to those People who have contributed :
+[![Contributors](https://contrib.rocks/image?repo=devgossips/linktree)](https://github.com/CKGrafico/papanasi/graphs/contributors)
 
-<img width="50px" src="https://contrib.rocks/image?repo=devgossips/linktree" />
-
+---
+Made with 🍕 by [Quique Fdez Guerra](https://twitter.com/ckgrafico)
